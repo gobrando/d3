@@ -1,2 +1,2 @@
 # d3
-d3 work and exercises
+d3.js work and exercises
